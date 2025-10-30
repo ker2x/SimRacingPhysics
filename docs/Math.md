@@ -34,7 +34,7 @@ Anyway, let's get into it and establish some standards
 
 ## SI Units
 
-For the calculation, unless explicitly clearly stated otherwise, we'll use SI Unit exclusively.
+For the calculation, unless explicitly & clearly stated otherwise, we'll use SI Unit exclusively.
 As well as the derived units.
 
 We'll also provide some conversion for reference, but it's just for display.
@@ -49,13 +49,12 @@ eg: $m/s \to km/h, kph, mph$
 
 ### Length
 
-- Obviously, the unit for length is "metre" or "meter" ($m$), not miles, furlong, banana, you-name-it.
+- The SI unit for length is "metre" or "meter" ($m$), not miles, furlong, banana, you-name-it.
 - The reciprocal of length is a weird unit we don't care about.
 - The derivative of length (or distance, same thing) is speed, or velocity, expressed in $m/s$
   - More on derivative later.
   - The second derivative, or second-order derivative, or the derivative of the derivative is _acceleration_: $m/s^2$. 
     - It is often expressed as a multiple of $g$, where $g$ is the standard gravity constant ($g \approx 9.81m/s^2$)
- )."
   - By the way, the 3rd-order derivative is called "jerk" ($j$) and is in $m/s^3$. In english it is "the rate of change of acceleration" (we could write it $g/s$ but we don't)
   - Just for fun:
     - 4th order is "Snap" or "Jounce"
@@ -75,7 +74,7 @@ eg: $m/s \to km/h, kph, mph$
 - 1 circle is $2\pi rad$ = 360°
 - Some weirdo use $\tau$ (tau): $1\tau = 2\pi rad = 360°$. It does make sense, but we'll stick to SI.
   - If you see $\tau$ on this project, it's unlikely to mean $2\pi$ 
-- The unit for "solid angle" (3d geometry) is steradian ($sr$) and i hope we won't need it.
+- The unit for "solid angle" (3d geometry) is steradian ($sr$) and I hope we won't need it.
 - The derivative, in radian per second ($rad/s$), is called "Angular velocity"
   - Of course we have 2nd derivative: Angular acceleration, in $rad/s^2$
   - And hopefully there is no angular jerk, angular jounce, etc... But now we know. If it exists, we'll know how to deal with it.
@@ -91,14 +90,12 @@ eg: $m/s \to km/h, kph, mph$
 
 ### Force
 
-Now we get into the fun stuff.
-
 - Force, in Newton ($N$) is a derived unit.
 - It is, hold your beer: $kg \cdot m \cdot s^{-2}$, or $kg \cdot m/s^2$
 
 ## Derivatives (aka: Rate of Change)
 
-**SUPER IMPORTANT STUFF**: This whole documentation is about car dynamics. **dy-na-mics** ! aka: "by how much stuff change".
+**SUPER IMPORTANT STUFF**: This whole project is about car dynamics. **dy-na-mics** ! aka: "by how much stuff change".
 
 Derivative is all about "how much stuff change".
 
@@ -107,14 +104,14 @@ We already got into derivate, and you may have "_some intution about it_" alread
 You already saw this with speed ($m/s$) and acceleration ($m/s^2$). 
 A derivative is just a fancy word for an **rate of change**.
 
-Another easy(?) way to think about it is **slope on a graph**. But hold on. Let's start from the super basic.
-
 A derivative is often seen as "how much something change **over time**". It's not always over time, it could be anything.
 But using time is not only common, it's also easier to understand.
+
 $m/s$ is "how much the distance (in $m$) change over time (in $s$).
 
 ### From "English" to "Fancy Math"
 
+- well use $t$ for time, $d$ for distance.
 - "at time ($t$) $0s$ we are at distance ($d$) $0m$". (English)
   - $t_0 = 0s$ and $d_0 = 0m$ (Subscript notation)
   - $d(0s) = 0m$ (Function notation)
