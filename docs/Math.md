@@ -21,19 +21,14 @@ So, for something like speed, meter per second, $m/s$ (which is a derivative btw
 - $m \cdot \frac{1}{s}$ (explicit multiplication by the reciprocal)
 - $ms^{-1}$ (meh... not to be mistaken with $milliseconds^{-1}$)
 
-Basically, "$s$ exponent -1" (aka: $s^{-1}$) is the same thing as multiplying by $\frac{1}{s}$ which is the same thing a dividing by s.
+Basically, "multiplying by s exponent -1" (aka: $s^{-1}$) is the same thing as multiplying by $\frac{1}{s}$ which is the same thing a dividing by s.
 _The mo' you know_. 
 
-$s^{-1} = \frac{1}{s}$
+$\to m \cdot s^{-1} = m \cdot \frac{1}{s} = m/s = \frac{m}{s}$
 
-But while speed is usually "just" $m/s$ some unit are by default mostly used with $^{-1}$.
-
-Eg : Frequency, hertz ($Hz$) is $s^{-1}$ and rarely seen as as $\frac{1}{s}$ 
 
 This $^{-1}$ is also called "_reciprocal_" or "_multiplicative inverse_".
 So the reciprocal of s is $s^{-1}$ (or, same thing, $\frac{1}{s}$)
-
-And the reciprocal of $\frac{3}{4}$ is $\frac{4}{3}$
 
 Anyway, let's get into it and establish some standards
 
