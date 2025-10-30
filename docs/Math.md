@@ -112,7 +112,7 @@ $m/s$ is "how much the distance (in $m$) change over time (in $s$).
 ### From "English" to "Fancy Math"
 
 - well use $t$ for time, $d$ for distance.
-- "at time ($t$) $0s$ we are at distance ($d$) $0m$". (English)
+- "at time $0s$ we are at distance $0m$". (English)
   - $t_0 = 0s$ and $d_0 = 0m$ (Subscript notation)
   - $d(0s) = 0m$ (Function notation)
 - "at $10s$ we are at $100m$"
