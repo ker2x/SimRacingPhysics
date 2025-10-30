@@ -18,7 +18,7 @@ So, for something like speed, meter per second, $m/s$ (which is a derivative btw
 - $m/s$ (slash notation)
 - $\frac{m}{s}$ (fractional notation)
 - $m \cdot s^{ -1}$ (negative exponent notation)
-- $ m \cdot \frac{1}{s}$ (explicit multiplication by the reciprocal)
+- $m \cdot \frac{1}{s}$ (explicit multiplication by the reciprocal)
 - $ms^{-1}$ (meh... not to be mistaken with $milliseconds^{-1}$)
 
 Basically, "$s$ exponent -1" (aka: $s^{-1}$) is the same thing as multiplying by $\frac{1}{s}$ which is the same thing a dividing by s.
