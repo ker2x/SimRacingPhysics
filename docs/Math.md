@@ -113,18 +113,21 @@ $m/s$ is "how much the distance (in $m$) change over time (in $s$).
 
 - well use $t$ for time, $d$ for distance.
 - "at time $0s$ we are at distance $0m$". (English)
-  - $t_0 = 0s$ and $d_0 = 0m$ (Subscript notation)
-  - $d(0s) = 0m$ (Function notation)
+  - Subscript notation:
+    - $t_0 = 0s$
+    - $d_0 = 0m$
+  - Function notation: $d(0s) = 0m$ 
 - "at $10s$ we are at $100m$"
-  - $t_1 = 10s$ and $d_1 = 100m$
+  - $t_1 = 10s$
+  - $d_1 = 100m$
   - $d(10s) = 100m$
 
 - how much time passed between $t_0$ and $t_1$ ?
   - 10 - 0 = 10. right ?
   - Let's use our subscript notation for fancy mathematicians
     - $t_1 - t_0 = 10s - 0s = 10s$
-  - So the "change in time" or "the difference of time between now ($t_1$) and then ($t_0$) is" : $10s$
-  - This "change in time" or "difference in time between now and then" have a fancy notation: $\Delta t$ (delta t)
+  - So the "change in time", "the interval of time", or "the difference of time between now ($t_1$) and then ($t_0$) is" : $10s$
+  - This "change in time", "interval", or "difference in time between now and then" have a fancy notation: $\Delta t$ (delta t)
   - Therefore: $\Delta t = t_1 - t_0 = 10s - 0s = 10s$. 
     - $\Delta t = 10s$
   
