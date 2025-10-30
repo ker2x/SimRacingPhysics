@@ -147,7 +147,7 @@ Because, hopefully, you now undertstand $\Delta$.
 - $\Delta t$ = a change ($\Delta$) in time ($t$)
 
 Let's go back to $m/s$, which is a speed (or velocity), which is a derivative of distance (or length) over time.
-You know where this is going ? yes ? hopefully ? I sure hope so.
+You know where this is going ? yes ? hopefully ? I sure hope so : A change in distance ($\Delta d$) over an interval of time ($\Delta t$) 
 
 - For our $m/s$ We got our $m$ ($\Delta d$) and $s$ ($\Delta t$).
 - What left is to rewrite it a little bit:
