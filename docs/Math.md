@@ -1,4 +1,4 @@
-# Math for ~~noobs~~ Sim racer
+# Math for ~~noobs~~ simracer
 
 - The guide assumes you have 16yo math knowledge (all 4 operations, fraction, basic equation stuff, exponent, trigonometry)
 - You don't need to know how to solve anything, we just need to be able to read it and understand some of it.
