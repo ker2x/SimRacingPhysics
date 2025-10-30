@@ -144,7 +144,7 @@ Because, hopefully, you now undertstand $\Delta$.
 
 - $\Delta$ really is a shortened way to express a difference, a change, an interval, a substraction of two of the same thing, you-name-it. you get the idea.
 - $\Delta d$ = a change ($\Delta$) in distance ($d$)
-- $\Delta t$ = a change ($\Delta$) in time ($t$)
+- $\Delta t$ = a change ($\Delta$) in time ($t$) (an interval)
 
 Let's go back to $m/s$, which is a speed (or velocity), which is a derivative of distance (or length) over time.
 You know where this is going ? yes ? hopefully ? I sure hope so : A change in distance ($\Delta d$) over an interval of time ($\Delta t$) 
