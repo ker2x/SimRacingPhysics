@@ -117,7 +117,7 @@ $m/s$ is "how much the distance (in $m$) change over time (in $s$).
     - $t_0 = 0s$
     - $d_0 = 0m$
   - Function notation: $d(0s) = 0m$ 
-- "at $10s$ we are at $100m$"
+- "at $10s$ we are at $100m$":
   - $t_1 = 10s$
   - $d_1 = 100m$
   - $d(10s) = 100m$
@@ -132,15 +132,17 @@ $m/s$ is "how much the distance (in $m$) change over time (in $s$).
     - $\Delta t = 10s$
   
 - Same for the distance. It's the same thing so i'll keep it short
-  - $d_0 = 0m$ and $d_1 = 100m$
+  - $d_0 = 0m$
+  - $d_1 = 100m$
   - $\Delta d = d_1 - d_0 = 100 - 0 = 100m$
-    - $\Delta d = 100m$
+  - $\Delta d = 100m$
   
 We still haven't got into derivate but it turns out we did the hard work already.
-Because, hopefully, you now undertstand $\Delta$
+Because, hopefully, you now undertstand $\Delta$.
 
 #### Derivative (don't panic)
 
+- $\Delta$ really is a shortened way to express a difference, a change, an interval, a substraction of two of the same thing, you-name-it. you get the idea.
 - $\Delta d$ = a change ($\Delta$) in distance ($d$)
 - $\Delta t$ = a change ($\Delta$) in time ($t$)
 
