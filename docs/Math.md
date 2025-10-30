@@ -157,7 +157,7 @@ You know where this is going ? yes ? hopefully ? I sure hope so : A change in di
 
 ##### There it is ! Finally !
 
-"The rate of change of meter per second" $\to \frac{\Delta d}{\Delta t} = \frac{100m}{10s} = \frac{10m}{1s} = 10\frac{m}{s} = 10 m/s$
+"The rate of change of meter per second" $\to \frac{\Delta d}{\Delta t} = \frac{100m}{10s} = \frac{10m}{1s} = 10 \cdot \frac{m}{s} = 10 m/s$
 
 $\frac{\Delta d}{\Delta t}$ is one of many notation to express a derivative. 
 
