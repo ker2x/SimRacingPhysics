@@ -222,7 +222,7 @@ And so on... how much acceleration change over time ? meter per second per secon
 ### Force (again)
 
 The units, like Force, with annoying negative exponant can be simplified:
-- _Mutiplying by $s^{-2}$ is just an annoying way to divide by $s^2$_. And it is MUCH easier to understand as a regular human.
+- Mutiplying by $s^{-2}$ is just an annoying way to divide by $s^2$. And it is MUCH easier to understand as a regular human.
 
 So for Force, as seen previously:
 - The SI notation is : $kg \cdot m \cdot s^{-2}$
