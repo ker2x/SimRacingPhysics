@@ -153,7 +153,7 @@ You know where this is going ? yes ? hopefully ? I sure hope so : A change in di
 - $\Delta t$ (10s) and $\Delta d$ (100m).
 - What left is to rewrite it a little bit:
   - speed $\to m/s \to \frac{m}{s}$ (same thing but in fractional notation instead of slash notation)
-  - $100m$ per $10s$ right ? That's not how we expressed speed. We express it in " meter per (1) second"
+  - $100m$ / $10s$ right ? "100m per 10s" ? That's not how we expressed speed. We express it in "meter per (1) second"
 
 **There it is ! Finally !**
 
