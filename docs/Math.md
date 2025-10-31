@@ -44,13 +44,12 @@ eg: $m/s \to km/h, kph, mph$
 
 - The unit is second ($s$), the usual symbol for time is $t$ or $T$. (if we're really pedantic, it's just $t$, because $T$ is for the temperature)
 - The delta time (time passed between two events) is $\Delta T$, or $\Delta t$, and expressed in $s$ (in our context it will most likely be in milliseconds, $ms$).
-  - More on $\Delta$ later. But, TL;DR, a delta is basically a difference (a substraction).
 - The reciprocal of time is the frequency ($s^{-1}$) expressed in hertz ($Hz$)
 
 ### Length
 
 - The SI unit for length is "metre" or "meter" ($m$), not miles, furlong, banana, you-name-it.
-- The reciprocal of length is a weird unit we don't care about.
+- The reciprocal of length is a weird unit which is not relevant for sim racing.
 - The derivative of length (or distance, same thing) is speed, or velocity, expressed in $m/s$
   - More on derivative later.
   - The second derivative, or second-order derivative, or the derivative of the derivative is _acceleration_: $m/s^2$. 
