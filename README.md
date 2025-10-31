@@ -108,6 +108,13 @@ https://www.thecontactpatch.com/road/c0415-cornering-basics
 The cornering solution:
 https://www.thecontactpatch.com/road/c0418-oversteer-and-understeer
 
+Physics in motorsport racing
+https://learn.microsoft.com/en-us/training/educator-center/instructor-materials/racing-with-rajah/physics-racing
+
+Applications of Introductory Mechanics to Auto Racing
+https://scolton-www.s3.amazonaws.com/docs/racing_physics.pdf
+
+
 ## Misc
 
 ### Gemini stuff
